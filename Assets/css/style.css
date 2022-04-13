@@ -1,0 +1,124 @@
+.navbar {
+    background-color: #373A3C;
+}
+
+.navegador {
+    padding: 0px 37px 0px 37px;
+}
+
+.navbar-brand {
+    font-family: "Lobster", cursive;
+    font-size: 2.3125rem;
+    font-weight: 400;
+}
+
+.menu {
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.seccion1 {
+    padding: 0px 37px 0px 37px;
+    background-color: #FFFFFF;
+}
+
+.seccion2 {
+    padding-top: 24px;
+}
+
+.hr1 {
+    border-top: 1px solid black;
+    opacity: 100;
+}
+
+.tituloprin {
+    padding-top: 13.5px;
+}
+
+h1 {
+    font-family: "Cabin", sans-serif;
+    color: #373a3c;
+
+}
+
+h5 {
+    font-family: "Cabin", sans-serif;
+    color: #373a3c;
+    font-size: calc( 0.8em + 1vw);
+}
+
+.btn-outline-secondary {
+    color: #373A3C;
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+    font-size: calc(0.5em + 1vw);
+}
+
+h3 {
+    color: #373A3C;
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    font-size: calc( 0.8em + 1vw);
+}
+
+h4 {
+    font-family: "Cabin", sans-serif;
+    color: #373a3c;
+    font-weight: 700;
+    font-size: calc( 0.8em + 1vw);
+}
+
+p {
+    font-family: "Cabin", sans-serif;
+    color: #373a3c;
+    font-weight: 400;
+    font-size: calc( 0.7em + 1vw);
+}
+
+.card-title {
+    font-family: "Cabin", sans-serif;
+    color: #373a3c;
+    font-weight: 700;
+    font-size: calc( 0.9em + 1vw);
+}
+
+.card-text {
+    font-family: "Cabin", sans-serif;
+    color: #373a3c;
+    font-weight: 400;
+    font-size: 1em;
+    justify-content: left;
+}
+
+h2 {
+    font-family: "Cabin", sans-serif;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: calc( 1.7em + 1vw);
+}
+
+.suscribete {
+    padding: 100px 0px 100px 0px;
+}
+
+.mensaje h3{
+    font-family: "Cabin", sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: calc( 1em + 1vw);
+}
+span {
+    font-family: "Lobster", cursive;
+}
+
+footer {
+    background-color: #373A3C;
+}
+
+.marca {
+    font-family: "Lobster", cursive;
+    font-size: 40px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
